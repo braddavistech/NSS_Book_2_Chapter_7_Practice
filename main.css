@@ -1,0 +1,15 @@
+.pageHeader{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2vw;
+}
+.list {
+  display: flex;
+  justify-content: space-around;
+  flex-flow: row wrap;
+  
+}
+section{
+  flex-basis: 30%;
+  border: 1px dashed black;
+}
